@@ -180,7 +180,7 @@ const App = () => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#f3f3f3',
+    backgroundColor: '#6f4e37', // ← Coffee color here
     alignItems: 'center',
     justifyContent: 'center',
     paddingTop: 50,
@@ -240,7 +240,7 @@ const styles = StyleSheet.create({
     marginTop: 5,
   },
   turnArrow: {
-    color: '#444',
+    color: '#fff',
     fontSize: 32,
     marginHorizontal: 20,
   },
